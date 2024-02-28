@@ -1,0 +1,26 @@
+body {
+    background-color: cadetblue;
+    color: aliceblue;
+}
+h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: darkcyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.egy {
+    height: 139px;
+    width: 138px;
+    float: right;
+}
+.ketto {
+    height: 400px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
